@@ -118,11 +118,10 @@ A passenger who doesn't have internet/mobile access can use a kiosk near the ent
        Voice Guidance          Facility/Route Status
 ```   
 ## Dependencies
-
-├── React / Next.js
-├── Node.js + Express
-├── PostgreSQL
-├── MapLibre / Mapbox
-├── A* / Dijkstra
-├── Web Speech API
-└── Git + GitHub
+─ React / Next.js
+─ Node.js + Express
+─ PostgreSQL
+─ MapLibre / Mapbox
+─ A* / Dijkstra
+─ Web Speech API
+─ Git + GitHub
