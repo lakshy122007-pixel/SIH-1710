@@ -26,14 +26,23 @@ The important part: the route is based on the actual station layout, not road ma
 A digital map of the station showing:
 
 -Platforms
+
 -Ticket counters
+
 -Foot-over bridges / subways
+
 -Lifts & escalators
+
 -Restrooms
+
 -Food areas
+
 -Waiting halls
+
 -Enquiry counters
+
 -Entrances/exits
+
 -Parking areas
 
 Users can simply select:
@@ -51,9 +60,13 @@ This makes it much more useful for first-time passengers.
 Before navigation, passengers can select:
 
 - Normal route
+  
 - Wheelchair-friendly
+  
 - Luggage-friendly
+  
 - Fewer stairs
+  
 - Voice guidance
 
 The system then removes unsuitable paths.
@@ -119,9 +132,15 @@ A passenger who doesn't have internet/mobile access can use a kiosk near the ent
 ```   
 ## Dependencies
 ─ React / Next.js
+
 ─ Node.js + Express
+
 ─ PostgreSQL
+
 ─ MapLibre / Mapbox
+
 ─ A* / Dijkstra
+
 ─ Web Speech API
+
 ─ Git + GitHub
